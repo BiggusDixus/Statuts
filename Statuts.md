@@ -2,7 +2,7 @@
 
 ### ARTICLE 1 : PREAMBULE
 
-Il est fondé, entre les adhérents aux présents statuts, une association, régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre JuMP MINES ParisTech, ci-après dénommée l’Association, et régie par les présents statuts.  
+Il est fondé, entre les adhérents aux présents statuts, une association, régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre JuMP MINES, ci-après dénommée l’Association, et régie par les présents statuts.  
 
 Sa durée est illimitée.  
 
@@ -10,7 +10,7 @@ Elle est inscrite au Tribunal d’Instance de Paris.
 
 ### ARTICLE 2 : OBJET ET MOYENS
 
-L’association a pour objet de compléter et prolonger la formation théorique de ses membres par la réalisation d’études à caractère pédagogique, permettant la mise en application des principaux enseignements dispensés à MINES ParisTech – PSL tels qu’ils sont définis par la Direction de l’Ecole, notamment par la liste des options dispensées.   
+L’association a pour objet de compléter et prolonger la formation théorique de ses membres par la réalisation d’études à caractère pédagogique, permettant la mise en application des principaux enseignements et options facultatives dispensés à MINES Paris – PSL tels qu’ils sont définis par la Direction de l’Ecole.
 
 L’association réalise son objet conformément à l’éthique du mouvement des Junior-Entreprises. A ce titre, elle adhère à la Confédération Nationale des Junior-Entreprises.
  
@@ -22,7 +22,7 @@ Le siège social de l’Association est fixé au 60 Boulevard Saint Michel, 7500
 
 L'Association se compose de quatre types de membres :  
 
--	Les membres actifs, pouvant participer aux activités de JuMP, hormis la réalisation des études s’ils n’ont pas le statut de membres intervenants ; 
+-	Les membres actifs, pouvant participer aux activités de JuMP, hormis la réalisation des études s’ils n’ont pas le statut de membre intervenant ; 
 
 -	Les membres intervenants, chargés de la réalisation des études confiées à l’Association ; 
 
@@ -30,7 +30,7 @@ L'Association se compose de quatre types de membres :
 
 -	Les membres du Comité d’Orientation Stratégique (COS) dont les conditions de nomination et les missions sont précisées dans le Règlement intérieur. 
 
-Les membres actifs, intervenants et honoraires sont nécessairement étudiants de Mines ParisTech - PSL. 
+Les membres actifs, intervenants et honoraires sont nécessairement étudiants de Mines Paris - PSL. 
 
 Les membres votants sont les membres actifs.  
 
@@ -38,7 +38,7 @@ La qualité de membre s’acquiert dans les circonstances exposées par le Règl
 
 ### ARTICLE 5 : PERTE DE LA QUALITE DE MEMBRE
 
-La qualité de membre se perd automatiquement par la démission ou par le décès. Elle se perd également par la radiation prononcée par le Conseil d’Administration dans les conditions fixées par le Règlement Intérieur ou, pour les membres actifs, intervenants et honoraires, par la perte de la qualité d’étudiant à Mines ParisTech – PSL de manière automatique et non notifiée dans ce dernier cas. 
+La qualité de membre se perd automatiquement par la démission ou par le décès. Elle se perd également par la radiation prononcée par le Conseil d’Administration dans les conditions fixées par le Règlement Intérieur ou, pour les membres actifs, intervenants et honoraires, par la perte de la qualité d’étudiant à Mines Paris – PSL de manière automatique et non notifiée dans ce dernier cas. 
 
 ### ARTICLE 6 : RESSOURCES
 
@@ -64,7 +64,7 @@ Il est également procédé au remplacement des membres du Conseil d’Administr
 
 ##### 7.1.3. Réunions
 
-L’Assemblée Générale Ordinaire se réunit annuellement sur convocation du Secrétaire Général, au plus tard sept jours avant la fin de l’exercice de l’équipe en fonctions.   
+L’Assemblée Générale Ordinaire se réunit annuellement sur convocation du Secrétaire Général, au plus tard sept jours avant la fin de l’exercice de l’équipe en fonction.   
 
 L’Assemblée Générale Ordinaire doit réunir un quorum de deux tiers des membres votants. Si ce quorum n’est pas atteint, l’Assemblée Générale peut valablement délibérer sur seconde convocation sans quorum.  
 
